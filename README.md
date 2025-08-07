@@ -4,9 +4,7 @@ A group of collaborative AI Agents dedicated to help you find articles and YouTu
 
 ## Get Started:
 
-1. Install poetry
-
-Reference: [Peotry installation](https://python-poetry.org/docs/#installing-with-the-official-installer)
+1. [Peotry installation](https://python-poetry.org/docs/#installing-with-the-official-installer)
 
 2. Creat a python 3.11 Virtual Environment and install dependencies
 
