@@ -1,4 +1,4 @@
-# Position Media Scouts (just back-end)
+# Position Media Scouts (back-end)
 
 A group of collaborative AI Agents dedicated to help you find articles and YouTube interview videos of a person who is in a position at a company.
 
